@@ -7,7 +7,7 @@
 
 .header__menu {
     grid-column-start: 2;
-    align-content: center;
+    padding: 45px 0 0;
 }
 
 .header__logo {
@@ -41,6 +41,7 @@
 .header__links-list-item_no-bullit {
     list-style-type: none;
 }
+
 
 .cover {
     display: flex;
@@ -99,7 +100,7 @@
     z-index: 2;
     font-size: 22px;
     font-family: 'Raleway';
-    margin: 0 0 45px;
+    margin: 0 0 50px;
 }
 
 .aligned-text {
@@ -245,13 +246,14 @@
 }
 
 .about__title {
+    padding: 100px 0 0;
     grid-row-start: 2;
     grid-column-start: 2;
     text-transform:Uppercase;
     font-family: 'Raleway';
     font-size: 40px;
     color: black;
-    align-content: center;
+    
 }
 
 .about__text {
@@ -264,7 +266,7 @@
     grid-column-end: 3;
     grid-row-start: 3;
     align-content: end;
-    padding: 0 0 25px;
+    padding: 0 0 20px;
 }
 
 .about__text-pedding-off {
