@@ -1,5 +1,5 @@
 .header {
-    padding: 95px 24px;
+    padding: 95px 24px 90px;
     display: grid;
     grid-template-columns: 27px 390px 42px 135px 195px 241px 25px;
     grid-template-rows: 105px;
@@ -220,12 +220,13 @@
     display: block;
     font-family: 'Raleway';
     font-size: 20px;
-    padding: 25px 65px;
+    padding: 30px 65px 35px;
     text-underline-offset: 4px;
 }
 
 
 .about__column {
+
     display: grid;
     grid-template-columns: 384px 693px;
     grid-template-rows: 150px 240px 150px;
