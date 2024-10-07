@@ -9,6 +9,7 @@
     grid-column-start: 2;
     align-content: center;
 }
+
 .header__logo {
     grid-column-start: 4;
 }
@@ -156,7 +157,7 @@
     flex-direction: row;
     flex-grow: 1;
     list-style-type: none;
-    gap: 12px;
+    gap: 24px;
     padding: 0 25px;
 }
 
@@ -219,7 +220,7 @@
     display: block;
     font-family: 'Raleway';
     font-size: 20px;
-    padding: 30px 65px;
+    padding: 25px 65px;
     text-underline-offset: 4px;
 }
 
@@ -239,7 +240,7 @@
     background-image: url(../images/logo-white.svg);
     background-position: center;
     background-size: 60%;
-    background-repeat: no-repeat; 
+    background-repeat: no-repeat;
 }
 
 .about__title {
