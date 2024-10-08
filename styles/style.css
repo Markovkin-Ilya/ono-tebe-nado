@@ -152,7 +152,7 @@
     font-family: "Raleway", Arial, sans-serif;
     font-size: 40px;
     color: black;
-    padding: 185px 65px 28px;
+    padding: 180px 65px 28px;
 }
 
 .lots__card-list {
@@ -272,7 +272,7 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    padding: 180px 50px 100px;
+    padding: 180px 50px 100px 55px;
 }
 
 .footer__social-list {
